@@ -1,0 +1,8 @@
+{
+  "name": "drib-dash",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "https://github.com/twbs/bootstrap.git#v4-dev",
+    "jquery": "~2.1.4"
+  }
+}
